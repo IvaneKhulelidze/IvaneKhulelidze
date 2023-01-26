@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I am a Gamer :)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You can find me here:</h3>
 <p align="left">
 <a href="https://twitter.com/ivankhulelidze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivankhulelidze" height="30" width="40" /></a>
 <a href="https://instagram.com/kaxuchasdzmakacijr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaxuchasdzmakacijr" height="30" width="40" /></a>
