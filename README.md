@@ -1,7 +1,7 @@
+[![MasterHead](https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif)](https://github.com/IvaneKhulelidze)
 <h1 align="center">Hi 👋, I'm Ivane</h1>
 <h3 align="center">Young front-end and Game developer from Georgia.</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU">
-[![MasterHead](https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif)](https://github.com/IvaneKhulelidze)
 
 - 🔭 I’m currently working on **Private Websites**
 
